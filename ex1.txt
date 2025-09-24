@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rebase test
+=======
+text2
+>>>>>>> 870baf1 (text2)
