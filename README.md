@@ -5,4 +5,3 @@ text train
 Строка от напарника 2
 Заметка в фиче
 bd89cc1 (feat: note in README)
-Новая строка для PR
